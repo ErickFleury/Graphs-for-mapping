@@ -1,0 +1,55 @@
+Source,Target,Weight
+Rotatoria 1,Av Pau Brasil,200
+Av Pau Brasil,Rotatoria 1,200
+Av Pau Brasil,Rotatoria 2,160
+Rotatoria 2,Av Pau Brasil,160
+Rotatoria 2,Rotatoria 3,120
+Rotatoria 3,Rotatoria 2,120
+Rotatoria 3,Alameda Flamboyant 1,130
+Alameda Flamboyant 1,Rotatoria 3,130
+Alameda Flamboyant 1,Alameda Flamboyant 2,850
+Alameda Flamboyant 2,Alameda Flamboyant 1,850
+Alameda Flamboyant 2,Alameda Flamboyant 3,70
+Rotatoria 1,Alameda Flamboyant 3,70
+Alameda Flamboyant 3,Rotatoria 1,70
+Alameda Flamboyant 3,Alameda Flamboyant 4,30
+Alameda Flamboyant 3,Alameda Flamboyant 5,90
+Alameda Flamboyant 4,Rua R-2 1,90
+Rua R-2 1,Alameda Flamboyant 4,90
+Rua R-2 1,Alameda Flamboyant 2,100
+Alameda Flamboyant 4,Alameda Flamboyant 5,40
+Alameda Flamboyant 5,Alameda Flamboyant 4,40
+Alameda Flamboyant 5,Rotatoria 4,380
+Rotatoria 4,Alameda Flamboyant 5,380
+Rotatoria 4,Rotatoria 5,440
+Rotatoria 5,Rotatoria 4,440
+Rotatoria 5,Rotatoria 6,300
+Rotatoria 6,Rotatoria 5,300
+Rotatoria 6,Rotatoria 7,615
+Rotatoria 7,Rotatoria 6,615
+Rotatoria 7,Rotatoria 3,1020
+Rotatoria 3,Rotatoria 7,1020
+Rotatoria 1,Rotatoria 8,300
+Rotatoria 8,Rotatoria 1,300
+Rotatoria 5,Alameda Palmeiras 1,385
+Alameda Palmeiras 1,Rotatoria 8,150
+Rotatoria 8,Rotatoria 5,545
+Rotatoria 8,Rotatoria 9,220
+Rotatoria 9,Rotatoria 8,220
+Rotatoria 9,Av Pau Brasil,300
+Av Pau Brasil,Rotatoria 9,300
+Rotatoria 9,Rua Samambaia,290
+Rua Samambaia,Rotatoria 9,290
+Rua Samambaia,Rotatoria 2,420
+Rotatoria 2,Rua Samambaia,420
+Rua Samambaia,Rotatoria 10,310
+Rotatoria 10,Rua Samambaia,310
+Rotatoria 10,Rotatoria 6,200
+Rotatoria 6,Rotatoria 10,200
+
+
+
+
+
+Rua R-2 1,Rua R-2 2,1000
+Rua R-2 2,Rua R-2 1,1000
